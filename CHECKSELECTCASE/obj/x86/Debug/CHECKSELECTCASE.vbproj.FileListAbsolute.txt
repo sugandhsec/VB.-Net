@@ -1,0 +1,9 @@
+F:\VB.net\CheckIfElseillustration\CHECKSELECTCASE\bin\Debug\CHECKSELECTCASE.exe
+F:\VB.net\CheckIfElseillustration\CHECKSELECTCASE\bin\Debug\CHECKSELECTCASE.pdb
+F:\VB.net\CheckIfElseillustration\CHECKSELECTCASE\bin\Debug\CHECKSELECTCASE.xml
+F:\VB.net\CheckIfElseillustration\CHECKSELECTCASE\obj\x86\Debug\CHECKSELECTCASE.chkselect.resources
+F:\VB.net\CheckIfElseillustration\CHECKSELECTCASE\obj\x86\Debug\CHECKSELECTCASE.Resources.resources
+F:\VB.net\CheckIfElseillustration\CHECKSELECTCASE\obj\x86\Debug\CHECKSELECTCASE.vbproj.GenerateResource.Cache
+F:\VB.net\CheckIfElseillustration\CHECKSELECTCASE\obj\x86\Debug\CHECKSELECTCASE.exe
+F:\VB.net\CheckIfElseillustration\CHECKSELECTCASE\obj\x86\Debug\CHECKSELECTCASE.xml
+F:\VB.net\CheckIfElseillustration\CHECKSELECTCASE\obj\x86\Debug\CHECKSELECTCASE.pdb
