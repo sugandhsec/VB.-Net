@@ -1,0 +1,9 @@
+F:\VB.net\loop test\loop test\bin\Debug\loop test.exe
+F:\VB.net\loop test\loop test\bin\Debug\loop test.pdb
+F:\VB.net\loop test\loop test\bin\Debug\loop test.xml
+F:\VB.net\loop test\loop test\obj\x86\Debug\loop_test.for_loop.resources
+F:\VB.net\loop test\loop test\obj\x86\Debug\loop_test.Resources.resources
+F:\VB.net\loop test\loop test\obj\x86\Debug\loop test.vbproj.GenerateResource.Cache
+F:\VB.net\loop test\loop test\obj\x86\Debug\loop test.exe
+F:\VB.net\loop test\loop test\obj\x86\Debug\loop test.xml
+F:\VB.net\loop test\loop test\obj\x86\Debug\loop test.pdb

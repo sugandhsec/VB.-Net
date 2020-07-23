@@ -1,0 +1,9 @@
+G:\sybca\b2\db connection\dynamic drop down\bin\Debug\dynamic drop down.exe
+G:\sybca\b2\db connection\dynamic drop down\bin\Debug\dynamic drop down.pdb
+G:\sybca\b2\db connection\dynamic drop down\bin\Debug\dynamic drop down.xml
+G:\sybca\b2\db connection\dynamic drop down\obj\x86\Debug\dynamic_drop_down.Form1.resources
+G:\sybca\b2\db connection\dynamic drop down\obj\x86\Debug\dynamic_drop_down.Resources.resources
+G:\sybca\b2\db connection\dynamic drop down\obj\x86\Debug\dynamic drop down.vbproj.GenerateResource.Cache
+G:\sybca\b2\db connection\dynamic drop down\obj\x86\Debug\dynamic drop down.exe
+G:\sybca\b2\db connection\dynamic drop down\obj\x86\Debug\dynamic drop down.xml
+G:\sybca\b2\db connection\dynamic drop down\obj\x86\Debug\dynamic drop down.pdb

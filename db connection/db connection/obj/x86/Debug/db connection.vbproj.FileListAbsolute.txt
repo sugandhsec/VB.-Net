@@ -1,0 +1,9 @@
+G:\sybca\b2\db connection\db connection\bin\Debug\db connection.exe
+G:\sybca\b2\db connection\db connection\bin\Debug\db connection.pdb
+G:\sybca\b2\db connection\db connection\bin\Debug\db connection.xml
+G:\sybca\b2\db connection\db connection\obj\x86\Debug\db_connection.Form1.resources
+G:\sybca\b2\db connection\db connection\obj\x86\Debug\db_connection.Resources.resources
+G:\sybca\b2\db connection\db connection\obj\x86\Debug\db connection.vbproj.GenerateResource.Cache
+G:\sybca\b2\db connection\db connection\obj\x86\Debug\db connection.exe
+G:\sybca\b2\db connection\db connection\obj\x86\Debug\db connection.xml
+G:\sybca\b2\db connection\db connection\obj\x86\Debug\db connection.pdb

@@ -1,0 +1,9 @@
+F:\VB.net\ARRAY\ARRAY\obj\x86\Debug\ARRAY.Form1.resources
+F:\VB.net\ARRAY\ARRAY\obj\x86\Debug\ARRAY.Resources.resources
+F:\VB.net\ARRAY\ARRAY\obj\x86\Debug\ARRAY.vbproj.GenerateResource.Cache
+F:\VB.net\ARRAY\ARRAY\bin\Debug\ARRAY.exe
+F:\VB.net\ARRAY\ARRAY\bin\Debug\ARRAY.pdb
+F:\VB.net\ARRAY\ARRAY\bin\Debug\ARRAY.xml
+F:\VB.net\ARRAY\ARRAY\obj\x86\Debug\ARRAY.exe
+F:\VB.net\ARRAY\ARRAY\obj\x86\Debug\ARRAY.xml
+F:\VB.net\ARRAY\ARRAY\obj\x86\Debug\ARRAY.pdb

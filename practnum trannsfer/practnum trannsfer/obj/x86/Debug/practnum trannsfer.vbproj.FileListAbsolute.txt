@@ -1,0 +1,9 @@
+F:\VB.net\practnum trannsfer\practnum trannsfer\bin\Debug\practnum trannsfer.exe
+F:\VB.net\practnum trannsfer\practnum trannsfer\bin\Debug\practnum trannsfer.pdb
+F:\VB.net\practnum trannsfer\practnum trannsfer\bin\Debug\practnum trannsfer.xml
+F:\VB.net\practnum trannsfer\practnum trannsfer\obj\x86\Debug\practnum_trannsfer.Form1.resources
+F:\VB.net\practnum trannsfer\practnum trannsfer\obj\x86\Debug\practnum_trannsfer.Resources.resources
+F:\VB.net\practnum trannsfer\practnum trannsfer\obj\x86\Debug\practnum trannsfer.vbproj.GenerateResource.Cache
+F:\VB.net\practnum trannsfer\practnum trannsfer\obj\x86\Debug\practnum trannsfer.exe
+F:\VB.net\practnum trannsfer\practnum trannsfer\obj\x86\Debug\practnum trannsfer.xml
+F:\VB.net\practnum trannsfer\practnum trannsfer\obj\x86\Debug\practnum trannsfer.pdb
