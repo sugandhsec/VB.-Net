@@ -1,0 +1,9 @@
+G:\VB.net\databaseconnectionassignment1\databaseconnectionassignment1\bin\Debug\databaseconnectionassignment1.exe
+G:\VB.net\databaseconnectionassignment1\databaseconnectionassignment1\bin\Debug\databaseconnectionassignment1.pdb
+G:\VB.net\databaseconnectionassignment1\databaseconnectionassignment1\bin\Debug\databaseconnectionassignment1.xml
+G:\VB.net\databaseconnectionassignment1\databaseconnectionassignment1\obj\x86\Debug\databaseconnectionassignment1.Form1.resources
+G:\VB.net\databaseconnectionassignment1\databaseconnectionassignment1\obj\x86\Debug\databaseconnectionassignment1.Resources.resources
+G:\VB.net\databaseconnectionassignment1\databaseconnectionassignment1\obj\x86\Debug\databaseconnectionassignment1.vbproj.GenerateResource.Cache
+G:\VB.net\databaseconnectionassignment1\databaseconnectionassignment1\obj\x86\Debug\databaseconnectionassignment1.exe
+G:\VB.net\databaseconnectionassignment1\databaseconnectionassignment1\obj\x86\Debug\databaseconnectionassignment1.xml
+G:\VB.net\databaseconnectionassignment1\databaseconnectionassignment1\obj\x86\Debug\databaseconnectionassignment1.pdb

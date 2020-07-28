@@ -37,37 +37,38 @@
     <p>
 &nbsp;&nbsp;&nbsp;
         <asp:Label ID="lblfnameh" runat="server"></asp:Label>
+&nbsp;&nbsp;&nbsp;
 &nbsp;<asp:Label ID="lblfnamev" runat="server"></asp:Label>
     </p>
     <p>
 &nbsp;&nbsp;&nbsp;
         <asp:Label ID="lbllnameh" runat="server"></asp:Label>
-&nbsp;<asp:Label ID="lbllnamev" runat="server"></asp:Label>
+&nbsp;&nbsp;&nbsp;&nbsp; <asp:Label ID="lbllnamev" runat="server"></asp:Label>
     </p>
     <p>
 &nbsp;&nbsp;&nbsp;
         <asp:Label ID="lbladdh" runat="server"></asp:Label>
-&nbsp;<asp:Label ID="lbladdv" runat="server"></asp:Label>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <asp:Label ID="lbladdv" runat="server"></asp:Label>
     </p>
     <p>
 &nbsp;&nbsp;&nbsp;
         <asp:Label ID="lblcityh" runat="server"></asp:Label>
-&nbsp;<asp:Label ID="lblcityv" runat="server"></asp:Label>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <asp:Label ID="lblcityv" runat="server"></asp:Label>
     </p>
     <p>
 &nbsp;&nbsp;&nbsp;
         <asp:Label ID="lblgenh" runat="server"></asp:Label>
-&nbsp;<asp:Label ID="lblgenv" runat="server"></asp:Label>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <asp:Label ID="lblgenv" runat="server"></asp:Label>
     </p>
     <p>
 &nbsp;&nbsp;&nbsp;
         <asp:Label ID="lblhobh" runat="server"></asp:Label>
-&nbsp;<asp:Label ID="lblhobv" runat="server"></asp:Label>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <asp:Label ID="lblhobv" runat="server"></asp:Label>
     </p>
     <p>
 &nbsp;&nbsp;&nbsp;
         <asp:Label ID="lblmobh" runat="server"></asp:Label>
-&nbsp;<asp:Label ID="lblmobv" runat="server"></asp:Label>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <asp:Label ID="lblmobv" runat="server"></asp:Label>
     </p>
     <p>
 &nbsp;&nbsp;&nbsp;
