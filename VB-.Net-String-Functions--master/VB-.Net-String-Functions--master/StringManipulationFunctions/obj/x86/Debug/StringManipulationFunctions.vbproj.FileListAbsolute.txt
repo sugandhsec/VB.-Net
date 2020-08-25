@@ -1,0 +1,10 @@
+F:\VB.net\StringManipulationFunctions\StringManipulationFunctions\bin\Debug\StringManipulationFunctions.exe
+F:\VB.net\StringManipulationFunctions\StringManipulationFunctions\bin\Debug\StringManipulationFunctions.pdb
+F:\VB.net\StringManipulationFunctions\StringManipulationFunctions\bin\Debug\StringManipulationFunctions.xml
+F:\VB.net\StringManipulationFunctions\StringManipulationFunctions\obj\x86\Debug\StringManipulationFunctions.Resources.resources
+F:\VB.net\StringManipulationFunctions\StringManipulationFunctions\obj\x86\Debug\StringManipulationFunctions.vbproj.GenerateResource.Cache
+F:\VB.net\StringManipulationFunctions\StringManipulationFunctions\obj\x86\Debug\StringManipulationFunctions.exe
+F:\VB.net\StringManipulationFunctions\StringManipulationFunctions\obj\x86\Debug\StringManipulationFunctions.xml
+F:\VB.net\StringManipulationFunctions\StringManipulationFunctions\obj\x86\Debug\StringManipulationFunctions.pdb
+F:\VB.net\StringManipulationFunctions\StringManipulationFunctions\obj\x86\Debug\StringManipulationFunctions.StringFunction1.resources
+F:\VB.net\StringManipulationFunctions\StringManipulationFunctions\obj\x86\Debug\StringManipulationFunctions.StringFunction2.resources
