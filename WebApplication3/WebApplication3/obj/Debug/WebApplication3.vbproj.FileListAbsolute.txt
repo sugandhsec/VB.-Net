@@ -1,0 +1,8 @@
+F:\VB.net\WebApplication3\WebApplication3\obj\Debug\WebApplication3.Resources.resources
+F:\VB.net\WebApplication3\WebApplication3\obj\Debug\WebApplication3.vbproj.GenerateResource.Cache
+F:\VB.net\WebApplication3\WebApplication3\bin\WebApplication3.dll
+F:\VB.net\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+F:\VB.net\WebApplication3\WebApplication3\bin\WebApplication3.xml
+F:\VB.net\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+F:\VB.net\WebApplication3\WebApplication3\obj\Debug\WebApplication3.xml
+F:\VB.net\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb

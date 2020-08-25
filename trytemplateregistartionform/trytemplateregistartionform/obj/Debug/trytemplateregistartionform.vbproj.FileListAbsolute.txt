@@ -1,0 +1,8 @@
+F:\VB.net\trytemplateregistartionform\trytemplateregistartionform\bin\trytemplateregistartionform.dll
+F:\VB.net\trytemplateregistartionform\trytemplateregistartionform\bin\trytemplateregistartionform.pdb
+F:\VB.net\trytemplateregistartionform\trytemplateregistartionform\bin\trytemplateregistartionform.xml
+F:\VB.net\trytemplateregistartionform\trytemplateregistartionform\obj\Debug\trytemplateregistartionform.Resources.resources
+F:\VB.net\trytemplateregistartionform\trytemplateregistartionform\obj\Debug\trytemplateregistartionform.vbproj.GenerateResource.Cache
+F:\VB.net\trytemplateregistartionform\trytemplateregistartionform\obj\Debug\trytemplateregistartionform.dll
+F:\VB.net\trytemplateregistartionform\trytemplateregistartionform\obj\Debug\trytemplateregistartionform.xml
+F:\VB.net\trytemplateregistartionform\trytemplateregistartionform\obj\Debug\trytemplateregistartionform.pdb
